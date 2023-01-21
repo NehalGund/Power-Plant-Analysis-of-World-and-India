@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Power-Plant-Analysis-of-World-and-India&style=plstic&label=Repository+Views)
+
 <h1 align="center"> Power Plant Analysis of World and India </h1>
 
 <p align="center">:sparkles: :factory: :zap: :earth_asia: :sparkles:</p>
